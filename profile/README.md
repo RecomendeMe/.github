@@ -12,7 +12,7 @@ O RecomendeMe é uma plataforma desenvolvida que permite aos usuários submeter 
 ## Avaliação de Recomendações
 
 - **Avaliação:** Os usuários podem avaliar as recomendações submetidas por outros usuários, indicando se gostaram ou não da recomendação através de likes.
-- 
+
 ## Tecnologias Utilizadas
 
 - **Frontend:** ReactJS, NextJS
