@@ -13,12 +13,22 @@ O RecomendeMe é uma plataforma desenvolvida que permite aos usuários submeter 
 
 - **Avaliação:** Os usuários podem avaliar as recomendações submetidas por outros usuários, indicando se gostaram ou não da recomendação através de likes.
 
-## Tecnologias Utilizadas
+## Tecnologias Experimentais
+
+- **Frontend:** React, ERB
+- **Backend:** PHP, Flask, Node.JS
+- **Banco de Dados:** MySQL, Sqlite
+- **Testes:**: Mocha.JS
+- **Deploy:** Ngrok, Vercel
+
+
+## Tecnologias da versão final
 
 - **Frontend:** ReactJS, NextJS
 - **Backend:** PHP
 - **Banco de Dados:** MySQL
-- **Deploy:** Apache
+- **Testes:**: Selenium
+- **Deploy:** Apache, Hostinger
 
 
 ## Repositórios
