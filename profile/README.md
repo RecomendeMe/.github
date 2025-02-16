@@ -20,6 +20,16 @@ O RecomendeMe é uma plataforma desenvolvida que permite aos usuários submeter 
 - **Banco de Dados:** MySQL
 - **Deploy:** Apache
 
+
+## Repositórios
+- [RecomendeMe-ACDC-Legacy](https://github.com/RecomendeMe/RecomendeMe-ACDC-Legacy) (Python Microservice legado)
+- [RecomendeMe-API-JS-LEGACY](https://github.com/RecomendeMe/RecomendeMe-API-JS-LEGACY) (API Javascript legado)
+- [RecomendeMe-Mobile-Interface-legacy](https://github.com/RecomendeMe/RecomendeMe-Mobile-Interface-legacy) (React Native Mobile Legado)
+- [API-Documentation](https://github.com/RecomendeMe/API-Documentation) (Documentação da API atual)
+- [RecomendeMe-Web](https://github.com/RecomendeMe/RecomendeMe-Web) (Site online)
+
+
+
 ## Como Contribuir
 
 1. Faça um fork deste repositório
