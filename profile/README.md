@@ -31,14 +31,20 @@ O RecomendeMe é uma plataforma desenvolvida que permite aos usuários submeter 
 - **Deploy:** Apache, Hostinger
 
 
-## Repositórios
+## Repositórios Experimentais
 - [RecomendeMe-ACDC-Legacy](https://github.com/RecomendeMe/RecomendeMe-ACDC-Legacy) (Python Microservice legado)
 - [RecomendeMe-API-JS-LEGACY](https://github.com/RecomendeMe/RecomendeMe-API-JS-LEGACY) (API Javascript legado)
 - [RecomendeMe-Mobile-Interface-legacy](https://github.com/RecomendeMe/RecomendeMe-Mobile-Interface-legacy) (React Native Mobile Legado)
-- [API-Documentation](https://github.com/RecomendeMe/API-Documentation) (Documentação da API atual)
-- [RecomendeMe-Web](https://github.com/RecomendeMe/RecomendeMe-Web) (Site online)
 - [RecomendeMe MVP Ruby](https://github.com/RecomendeMe/RecomendeMe_Backend_MVP) (MVP em Ruby)
 - [RecomendeMe-Web-Legacy](https://github.com/samsepiol1/merecomende-beta-old-version) (Primeira Versão do Site em PHP)
+
+
+## Repositórios Atuais
+
+- [API-Documentation](https://github.com/RecomendeMe/API-Documentation) (Documentação da API atual)
+- [Documentação Técnica](https://github.com/RecomendeMe/Documentation) (Documentação técnica do Produto)
+- [RecomendeMe-Web](https://github.com/RecomendeMe/RecomendeMe-Web) (Site online)
+
 
 
 
